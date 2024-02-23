@@ -4,6 +4,8 @@
 
 The MyCobot280 MoveIt2 repository is an exciting platform that combines the power of the MyCobot280 M5 robot from Elephant Robotics with the advanced motion planning system MoveIt2. This fusion creates a robust and flexible development environment for robotics research, education, and practical application.
 
+![Texto alternativo](images/mycobot.png)
+
 ## Key Features:
 
 1. **Integration of MyCobot280 M5:** The repository enables seamless integration of the MyCobot280 M5, a compact collaborative robot with five degrees of freedom and a wide range of applications.
